@@ -1,1 +1,0 @@
-#PhotoAuth Demo
