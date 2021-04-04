@@ -7,4 +7,11 @@
 #### [Result video](https://raw.githubusercontent.com/paperdemo888/zoom_privacy/master/demo1/one_white_list_protection_result.mp4 "Result video")
 #### At the 25th second, due to the privacy-sensitive user's head twisting at too large an angle to recognize the face, we execute the patch system to protect the missed face.
 #### [After patching](https://raw.githubusercontent.com/paperdemo888/zoom_privacy/master/demo1/face_patch_at_25s.mp4 "After patching")
-##Video conference demo 2
+## Video conference demo 2
+#### This is another online video conference with multiple participants, but the difference is that this video records the name tags of all participants in the conference.
+#### The goal is to protect the name tag from leaking user privacy, we also use the white list model, and this time we will test the performance of the white list with different number of users.
+#### [Original video download](https://raw.githubusercontent.com/paperdemo888/zoom_privacy/master/demo2/original.mp4 "Original video")
+#### The result after processing by our system (One user in the white list).
+#### [Result video](https://raw.githubusercontent.com/paperdemo888/zoom_privacy/master/demo2/one_white_list_protection_result.mp4 "Result video")
+#### The result after processing by our system (Two users in the white list).
+#### [Result video](https://raw.githubusercontent.com/paperdemo888/zoom_privacy/master/demo2/two_white_list_protection_result.mp4 "Result video")
